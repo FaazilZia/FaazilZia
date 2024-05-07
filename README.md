@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C , C++ and Python
 - 💞️ I’m looking to collaborate o
 - 📫 How to reach me just mail 
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
