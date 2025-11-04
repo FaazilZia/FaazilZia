@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @FaazilZia
-- 👀 3rd Year CSE Student 🎓 | Diving deep into Full-Stack Development with React and Node.js.
-- Always seeking challenging problems and collaborative projects.
-- Currently focused on Data Structures & Algorithms.
-<!---
-FaazilZia/FaazilZia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @FaazilZia
+👀 **3rd Year CSE Student** 🎓 | Diving deep into Full-Stack Development with React and Node.js.
+🌱 My technical passion lies at the intersection of strong foundational skills (Java, DSA) and modern, user-facing applications (AI/Chatbots).
+📊 **Key Projects:** MVC Student Management System (Java), E-commerce Catalog Design, AI Assistants.
+💞️ I’m actively looking for **Summer Internship opportunities** and open to collaborative coding projects.
+📫 Connect with me via email
